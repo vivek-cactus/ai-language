@@ -1,0 +1,7 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#161b22"/>
+  <text x="12" y="34" font-family="monospace" font-size="16" fill="#58a6ff" font-weight="bold">ABC</text>
+  <path d="M14 44 L66 44" stroke="#30363d" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="12" y="62" font-family="monospace" font-size="16" fill="#ffa657" font-weight="bold">A3C</text>
+  <path d="M54 28 L66 40 L54 52" stroke="#58a6ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
