@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "date": "2026-05-17",
+    "model": "GPT-4o",
+    "tokens": 124,
+    "transformation": "Remove whitespace",
+    "originalPrompt": "What is the capital of France?",
+    "transformedPrompt": "WhatisthecapitalofFrance?",
+    "aiResponse": "Paris is the capital of France.",
+    "observations": "Model correctly identified the question despite all spaces being removed."
+  }
+]
